@@ -1,5 +1,8 @@
 # Kelompok 9
 
+# Judul Program
+
+**Aplikasi Romberg Integration dalam Analisis Kecepatan Freefall Skydiving Dengan Bahasa C **
 
 # Nama Anggota dan NPM:
 - Bonifasius Raditya Pandu Hendrianto (2306242350)
