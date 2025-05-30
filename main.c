@@ -22,7 +22,7 @@ double romberg(double a, double b, double m, double c, int n) {
         double sum = 0;
         
         // Hitung sum untuk points baru
-        for (k = 1; k <= pow(2, i) - 1; k += 2) {
+        for (int k = 1; k <= pow(2, i) - 1; k += 2) {
             sum += velocity(a + k * h, m, c);
         }
         
