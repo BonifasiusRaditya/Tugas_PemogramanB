@@ -2,14 +2,14 @@
 
 # Judul Program
 
-**Aplikasi Romberg Integration dalam Analisis Kecepatan Freefall Skydiving Dengan Bahasa C **
+Aplikasi Romberg Integration dalam Analisis Kecepatan Freefall Skydiving Dengan Bahasa C
 
 # Nama Anggota dan NPM:
 - Bonifasius Raditya Pandu Hendrianto (2306242350)
 - Bryan Herdianto (2306210885)
 - Deandro Najwan Ahmad Syahbanna (2306213174)
 - Falah Andhesryo (2306161990)
-- Wesley Frederick Oh
+- Wesley Frederick Oh (2306202763)
 
 ## Penjelasan Program
 
