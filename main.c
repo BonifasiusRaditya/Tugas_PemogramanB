@@ -11,7 +11,7 @@ double velocity(double t, double m, double c) {
 double romberg(double a, double b, double m, double c, int n) {
     double h = b - a;
     double R[20][20] = {0}; // Array untuk menyimpan hasil integrasi
-    int i, j, k;
+    int i, j, 
     
     // Hitung R(0,0) menggunakan aturan trapesium dengan satu interval
     R[0][0] = h * (velocity(a, m, c) + velocity(b, m, c)) / 2.0;
