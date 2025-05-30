@@ -36,6 +36,16 @@ double romberg(double a, double b, double m, double c, int n) {
         }
     }
     
+    //tes print table romberg dari O(h^2)
+    printf("\nRomberg Integration Table\n");
+    for (i = 0; i < n; i++) {
+        for (j = 0; j <= i; j++) {
+            printf("%-15.8f", R[i][j]);
+        }
+        printf("\n");
+    }
+    printf("-------------------------------------------\n");
+    
     // Return hasil akhir (sudut kanan bawah dari tabel Romberg)
     return R[n-1][n-1];
 }
